@@ -79,4 +79,9 @@ header h2 {
     border: 1px solid green;
   
   } 
-  
+  #carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
